@@ -30,6 +30,4 @@ tkinter-pyttsx3-verse-reader/
 ├── requirements.txt # Dependencies
 ├── README.md # Documentation
 └── output/ # Screenshots or demo
-├── screenshot.png
-└── demo.gif
 
