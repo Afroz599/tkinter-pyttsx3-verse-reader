@@ -12,7 +12,8 @@ verses = {
     "sad": "Do not grieve, indeed Allah is with us",
     "stressed": "Verily, in the remembrance of Allah do hearts find rest",
     "angry": "Those who control anger and forgive people, Allah loves them",
-    "lonely": "Allah is closer to you than your jugular vein"
+    "lonely": "Allah is closer to you than your jugular vein",
+    "Pride":"Do not walk upon the earth arrogantly. Indeed, you will never tear the earth [apart], and you will never reach the mountains in height."
 }
 #creating function for speech
 def say():
